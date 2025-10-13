@@ -5,7 +5,7 @@ _Estudante de Engenharia de Software | Desenvolvedor em Formação_
 <a href="https://www.linkedin.com/in/vinicius-ribas-bida-a9102a348" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:bidaviniciusribas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-Sou um estudante de **Engenharia de Software** na **Universidade Estadual de Ponta Grossa (UEPG)**, apaixonado por tecnologia e pela forma como o código é capaz de transformar ideias em realidade. Estou no início da minha jornada, focado em construir uma base sólida e explorar novas tecnologias.
+Sou um estudante de **Engenharia de Software** na **Universidade Estadual de Ponta Grossa (UEPG)**, apaixonado por tecnologia e pela forma como o código é capaz de transformar ideias em realidade. Estou no segundo período, quero construir uma base sólida e explorar novas tecnologias.
 
 ---
 
