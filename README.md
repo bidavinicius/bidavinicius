@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o Vinicius Bida!
+###  Olá, eu sou o Vinicius Bida!
 
 _Estudante de Engenharia de Software | Desenvolvedor em Formação_
 
